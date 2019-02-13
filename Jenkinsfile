@@ -15,3 +15,5 @@ node {
          bat(/"${mvnHome}\bin\mvn"  clean package/)
       }
 }
+   
+}
